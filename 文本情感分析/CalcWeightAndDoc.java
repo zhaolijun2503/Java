@@ -29,6 +29,7 @@ public class CalcWeightAndDoc {
     private Set<String> positiveDict;
     private Set<String> negativeDict;
 
+    
     //需要的全局变量
     private boolean isGroup = false;
     String strTemp;//从xml文件解析词语时用到的临时变量
